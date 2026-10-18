@@ -22,12 +22,15 @@ Claude 企业应用实战手册：**公开**的 VitePress 培训教程，发布�
 docs/
 ├─ .vitepress/config.mts   导航、侧边栏（新增页面要同步加到 sidebar）
 ├─ index.md                首页
-├─ guide/                  入门篇：介绍、账号类型、安全设置
-├─ basics/                 基础篇：提示词、文件分析、Projects
-├─ scenarios/              场景篇：产品调研、市场分析、竞品对比
-├─ industries/<行业>/      行业篇：每个行业一个目录（trade=贸易）
+├─ guide/                  入门篇：介绍、原理与局限、账号类型、安全设置、概念地图
+├─ basics/                 基础篇：提示词、文件分析、Projects、Artifacts、联网研究
+├─ advanced/               高级篇：Claude Code（核心课 + optional/ 选学专题 + 版本动态）
+├─ cases/                  场景与行业篇
+│  ├─ common/              通用场景：产品调研、市场分析、竞品对比
+│  └─ industries/<行业>/   行业场景：每个行业一个目录（trade=贸易）
 ├─ prompts/                提示词模板库
 ├─ security/               使用规范与数据安全
+├─ reference/              术语表与速查表
 └─ faq/                    常见问题
 ```
 

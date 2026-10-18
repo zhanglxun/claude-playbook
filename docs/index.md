@@ -15,13 +15,13 @@ hero:
 
 features:
   - title: 入门篇
-    details: 了解 Claude 能做什么，选对账号类型，做好安全设置。
+    details: 认识 Claude 的原理与局限，选对账号类型，做好安全设置。
   - title: 基础篇
-    details: 提示词写法、文件与表格分析、Projects 项目功能。
-  - title: 场景篇
-    details: 产品调研、市场分析、竞品对比的分析框架与模板。
-  - title: 行业篇
-    details: 针对贸易等行业的高频场景，开箱即用。
+    details: 提示词、文件与表格分析、Projects、Artifacts、联网研究。
+  - title: 高级篇
+    details: Claude Code：让 AI 在你的电脑上干活，含权限、Skills、MCP、Agent。
+  - title: 场景与行业篇
+    details: 产品调研、市场分析、竞品对比，以及贸易等行业的高频场景。
 ---
 
 ::: tip 说明

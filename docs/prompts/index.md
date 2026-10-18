@@ -4,10 +4,10 @@
 
 | 场景 | 模板位置 |
 |---|---|
-| 产品调研 | [产品调研分析](/scenarios/product-research) |
-| 市场分析 | [市场分析](/scenarios/market-analysis) |
-| 竞品对比 | [竞品对比](/scenarios/competitor) |
-| 外贸邮件 | [贸易行业](/industries/trade/) |
+| 产品调研 | [产品调研分析](/cases/common/product-research) |
+| 市场分析 | [市场分析](/cases/common/market-analysis) |
+| 竞品对比 | [竞品对比](/cases/common/competitor) |
+| 外贸邮件 | [贸易行业](/cases/industries/trade/) |
 
 ## 通用模板
 

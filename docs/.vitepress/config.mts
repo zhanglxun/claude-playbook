@@ -4,7 +4,8 @@ export default defineConfig({
   lang: 'zh-CN',
   title: 'Claude 实战手册',
   description: 'Claude 企业应用实战手册：账号选择、提示词、产品调研与市场分析（非 Anthropic 官方）',
-  base: '/claude-playbook/',
+  // GitHub Pages 用 /claude-playbook/；独立域名（根路径）构建时设置 DOCS_BASE=/
+  base: process.env.DOCS_BASE ?? '/claude-playbook/',
   cleanUrls: true,
   lastUpdated: true,
 
